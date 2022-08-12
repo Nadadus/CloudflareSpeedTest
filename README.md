@@ -69,7 +69,15 @@ chmod +x CloudflareST
 
 > _在**手机**上独立运行 CloudflareST 测速的简单教程：**[Android](https://github.com/XIU2/CloudflareSpeedTest/discussions/61)、[Android APP](https://github.com/xianshenglu/cloudflare-ip-tester-app)、[IOS](https://github.com/XIU2/CloudflareSpeedTest/issues/151)**_
 
-### 结果示例
+### 
+iOS运行
+# 运行（不带参数）
+./CloudflareST
+
+# 运行（带参数示例）
+./CloudflareST -dd -tll 90
+
+结果示例
 
 测速完毕后，默认会显示**最快的 10 个 IP**，示例（我联通白天测速结果）：  
 
